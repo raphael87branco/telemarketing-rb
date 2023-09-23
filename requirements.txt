@@ -1,5 +1,5 @@
 protobuf==3.20.1
-matplotlib==3.8.0
+matplotlib
 matplotlib-inline @ file:///Users/ec2-user/ci_py311/matplotlib-inline_1678317544666/work
 pandas==2.1.0
 pandas-profiling==3.2.0
